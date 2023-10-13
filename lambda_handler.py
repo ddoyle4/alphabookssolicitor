@@ -1,5 +1,5 @@
 
 def lambda_handler(event, context):
     print("lambda handler called for solicitor")
-    print("blah!")
+    print("done and done!")
     return "done"
